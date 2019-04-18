@@ -1,0 +1,11 @@
+Algoritmo Division_Dos_Numeros
+	Definir n1 Como Real
+	Definir n2 Como Real
+	Definir división Como Real
+	Escribir "Ingrese el primer número"
+	Leer n1
+	Escribir "Ingrese el segundo número"
+	Leer n2
+	división <- n1 / n2
+	Escribir "la división es: ",división
+FinAlgoritmo
